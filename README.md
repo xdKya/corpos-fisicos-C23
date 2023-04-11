@@ -1,1 +1,2 @@
-# corpos-fisicos-C23
+# C20_boilerplate
+boilerplate for teacher activity
